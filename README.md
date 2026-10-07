@@ -1,1 +1,2 @@
+Repozytorium do zadania Git
 
